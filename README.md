@@ -1,5 +1,6 @@
-# Hi there, I'm [Mohamed Saied] 👋  <p align="center">
-  <img src="(https://github.com/mohamed-saied-1/mohamed-saied-1/blob/main/mohamed%20Saied.png)" width="200" style="border-radius: 50%;">
+# Hi there, I'm [Mohamed Saied] 👋  
+<p align="center">
+  <img src="https://github.com/mohamed-saied-1/mohamed-saied-1/blob/main/mohamed%20Saied.png" width="200" style="border-radius: 50%;">
 </p>
 
 ### 🚀  Computer Science Student | Aspiring AI & ML Engineer | Machine Learning & Deep Learning Enthusiast | Strong in Data Structures & Algorithms | Software Engineer | Data Science & Big Data Enthusiast
