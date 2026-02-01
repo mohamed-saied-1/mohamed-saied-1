@@ -1,4 +1,6 @@
-# Hi there, I'm [Mohamed Saied] 👋
+# Hi there, I'm [Mohamed Saied] 👋  <p align="center">
+  <img src="mohamed Saied.jpg" width="200" style="border-radius: 50%;">
+</p>
 
 ### 🚀  Computer Science Student | Aspiring AI & ML Engineer | Machine Learning & Deep Learning Enthusiast | Strong in Data Structures & Algorithms | Software Engineer | Data Science & Big Data Enthusiast
 
@@ -31,5 +33,5 @@ I am a passionate developer focused on building scalable, data-driven solutions 
 * **[Animated Smart Village](https://github.com/mohamed-saied-1/Animated-Smart-Village-.git):** An interactive 3D environment using **C++/OpenGL** featuring dynamic lighting, aircraft physics, and day/night cycles.
 
 ---
-<img src="mohamed.jpg" width="200" align="right">
+
 📫 **How to reach me:** [mohamed80598@gmail.com] | [www.linkedin.com/in/mohamed-said-15ab8032b]
