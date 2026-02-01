@@ -15,20 +15,20 @@ I am a passionate developer focused on building scalable, data-driven solutions 
 
 | Category | Technologies |
 | :--- | :--- |
-| **Data & AI** | PySpark, MLlib, Scikit-learn, Pandas, K-Means, Random Forest |
+| **Data & AI** | PySpark, MLlib, Scikit-learn, Pandas,TensorFlow, PyTorch ,ML ALgorithms,CNN ,RNN,ANN |
 | **Languages** | Python, C++, SQL, JavaScript |
 | **Frameworks** | Streamlit, PyQt5, OpenGL (GLUT), Node.js/HTML/CSS |
 | **Engineering** | IEEE SRS Documentation, Jira Workflow, Unit Testing, UML Modeling |
-| **Tools** | Git, GitHub, VS Code, Google Colab |
+| **Tools** | Git, GitHub, VS Code, Google Colab, Kaggle |
 
 ---
 ### 🏆 Featured Projects
 
-* **[Hotel Cancellation Predictor]([your-link](https://github.com/mohamed-saied-1/Hotel-Booking-Demand-Prediction.git)):** A Big Data pipeline using **Spark** to predict booking trends (~119k records) with GBT Classifier.
-* **[Student Performance Hybrid Model]([your-link](https://github.com/mohamed-saied-1/Student-Performance-Clustering-Hybrid-Prediction-Model.git)):** A unique approach combining **K-Means Clustering** with **Random Forest** to predict academic success (88.6% Accuracy).
-* **[Online Car Rental System (Full SDLC)]([your-link](https://github.com/mohamed-saied-1/Car-Rental-Online.git)):** A complete engineering suite featuring **IEEE SRS documentation**, **Jira project management**, and a comprehensive **QA Testing Matrix**.
-* **[OS Scheduler Simulator]([your-link](https://github.com/mohamed-saied-1/OS-Scheduler-Simulator.git)):** A desktop application built with **PyQt5** to visualize CPU scheduling algorithms with real-time Gantt charts.
-* **[Animated Smart Village]([your-link](https://github.com/mohamed-saied-1/Animated-Smart-Village-.git)):** An interactive 3D environment using **C++/OpenGL** featuring dynamic lighting, aircraft physics, and day/night cycles.
+* **[Hotel Cancellation Predictor](https://github.com/mohamed-saied-1/Hotel-Booking-Demand-Prediction.git):** A Big Data pipeline using **Spark** to predict booking trends (~119k records) with GBT Classifier.
+* **[Student Performance Hybrid Model](https://github.com/mohamed-saied-1/Student-Performance-Clustering-Hybrid-Prediction-Model.git):** A unique approach combining **K-Means Clustering** with **Random Forest** to predict academic success (88.6% Accuracy).
+* **[Online Car Rental System (Full SDLC)](https://github.com/mohamed-saied-1/Car-Rental-Online.git):** A complete engineering suite featuring **IEEE SRS documentation**, **Jira project management**, and a comprehensive **QA Testing Matrix**.
+* **[OS Scheduler Simulator](https://github.com/mohamed-saied-1/OS-Scheduler-Simulator.git):** A desktop application built with **PyQt5** to visualize CPU scheduling algorithms with real-time Gantt charts.
+* **[Animated Smart Village](https://github.com/mohamed-saied-1/Animated-Smart-Village-.git):** An interactive 3D environment using **C++/OpenGL** featuring dynamic lighting, aircraft physics, and day/night cycles.
 
 ---
 
